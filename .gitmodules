@@ -7,3 +7,6 @@
 [submodule "only-tokens-swap"]
 	path = only-tokens-swap
 	url = git@github.com:patiee/only-tokens-swap.git
+[submodule "only-tokens-wallet"]
+	path = only-tokens-wallet
+	url = git@github.com:patiee/only-tokens-wallet.git
